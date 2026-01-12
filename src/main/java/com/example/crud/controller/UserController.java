@@ -37,7 +37,7 @@ public class UserController {
 		logger.debug("UserService injected: {}", userService.toString());
 		logger.info("Info message");
 		this.userService = userService;
-
+System.out.println("wlcome");
 //        shas
 	}
 
